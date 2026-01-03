@@ -1,0 +1,6 @@
+pandas
+os
+dotenv
+requests
+mysql.connector
+pymysql
